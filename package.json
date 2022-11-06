@@ -1,0 +1,23 @@
+{
+  "name": "7weeks",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "pug": "^3.0.2",
+    "socket.io": "^4.5.3",
+    "ws": "^8.10.0"
+  },
+  "devDependencies": {
+    "@babel/node": "^7.20.0",
+    "@babel/preset-env": "^7.19.4"
+  }
+}
